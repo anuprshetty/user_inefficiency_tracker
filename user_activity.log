@@ -1,0 +1,46 @@
+DATE TIME,LOG LEVEL NAME,USER ID,CURRENT STEP,NEXT STEP,STEP TIME
+08-11-2019 15-37-51,INFO,user_1,Philips Home Page,View My Benefits,82ms
+08-11-2019 15-37-51,INFO,user_1,View My Benefits,Financial Year,28ms
+08-11-2019 15-37-51,INFO,user_1,Financial Year,Notice Pay Reimbursement,90ms
+08-11-2019 15-37-52,INFO,user_1,Notice Pay Reimbursement,Payslips Download,28ms
+08-11-2019 15-37-52,INFO,user_2,Philips Home Page,Componsation Viewer,82ms
+08-11-2019 15-37-53,INFO,user_2,Componsation Viewer,View My Benefits,78ms
+08-11-2019 15-37-54,INFO,user_2,View My Benefits,Advance Salary Viewer,89ms
+08-11-2019 15-37-54,INFO,user_2,Advance Salary Viewer,Tax Calculator,89ms
+08-11-2019 15-37-55,INFO,user_2,Tax Calculator,Financial Year,90ms
+08-11-2019 15-37-56,INFO,user_2,Financial Year,Payslips Viewer,83ms
+08-11-2019 15-37-57,INFO,user_2,Payslips Viewer,Payslips Download,52ms
+08-11-2019 15-37-57,INFO,user_3,Philips Home Page,Componsation Viewer,13ms
+08-11-2019 15-37-58,INFO,user_3,Componsation Viewer,Work Day Home Page,74ms
+08-11-2019 15-37-59,INFO,user_3,Work Day Home Page,Work Day Profile,48ms
+08-11-2019 15-38-00,INFO,user_3,Work Day Profile,My Reimbursement Statements,80ms
+08-11-2019 15-38-01,INFO,user_3,My Reimbursement Statements,Payslips Download,78ms
+08-11-2019 15-38-01,INFO,user_4,Philips Home Page,View My Pay,47ms
+08-11-2019 15-38-01,INFO,user_4,View My Pay,Tax Calculator,60ms
+08-11-2019 15-38-02,INFO,user_4,Tax Calculator,Payslips Download,17ms
+08-11-2019 15-38-03,INFO,user_5,Philips Home Page,View My Pay,79ms
+08-11-2019 15-38-03,INFO,user_5,View My Pay,My Reimbursement Statements,39ms
+08-11-2019 15-38-03,INFO,user_5,My Reimbursement Statements,Payslips Viewer,34ms
+08-11-2019 15-38-04,INFO,user_5,Payslips Viewer,Payslips Download,19ms
+08-11-2019 15-38-05,INFO,user_6,Philips Home Page,View My Benefits,33ms
+08-11-2019 15-38-05,INFO,user_6,View My Benefits,My Reimbursement Statements,44ms
+08-11-2019 15-38-05,INFO,user_6,My Reimbursement Statements,Financial Year,92ms
+08-11-2019 15-38-06,INFO,user_6,Financial Year,Payslips Viewer,46ms
+08-11-2019 15-38-07,INFO,user_6,Payslips Viewer,Payslips Download,21ms
+08-11-2019 15-38-08,INFO,user_7,Philips Home Page,Work Day Home Page,68ms
+08-11-2019 15-38-09,INFO,user_7,Work Day Home Page,Tax Calculator,66ms
+08-11-2019 15-38-10,INFO,user_7,Tax Calculator,Payslips Download,82ms
+08-11-2019 15-38-11,INFO,user_8,Philips Home Page,Intranet,81ms
+08-11-2019 15-38-12,INFO,user_8,Intranet,Payslips Viewer,76ms
+08-11-2019 15-38-12,INFO,user_8,Payslips Viewer,Payslips Download,52ms
+08-11-2019 15-38-13,INFO,user_9,Philips Home Page,Tax Viewer,66ms
+08-11-2019 15-38-13,INFO,user_9,Tax Viewer,ADP Viewer,45ms
+08-11-2019 15-38-13,INFO,user_9,ADP Viewer,Advance Salary Viewer,24ms
+08-11-2019 15-38-14,INFO,user_9,Advance Salary Viewer,Tax Calculator,31ms
+08-11-2019 15-38-15,INFO,user_9,Tax Calculator,Notice Pay Reimbursement,87ms
+08-11-2019 15-38-16,INFO,user_9,Notice Pay Reimbursement,Payslips Viewer,61ms
+08-11-2019 15-38-17,INFO,user_9,Payslips Viewer,Payslips Download,40ms
+08-11-2019 15-38-18,INFO,user_10,Philips Home Page,My Statements,12ms
+08-11-2019 15-38-19,INFO,user_10,My Statements,Advance Salary Viewer,62ms
+08-11-2019 15-38-20,INFO,user_10,Advance Salary Viewer,Payslips Viewer,14ms
+08-11-2019 15-38-21,INFO,user_10,Payslips Viewer,Payslips Download,56ms
